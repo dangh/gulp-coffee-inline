@@ -1,0 +1,13 @@
+{
+  "name": "gulp-coffee-inline",
+  "version": "0.0.1",
+  "description": "use comment to inline other coffee scripts into current file",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Dang H.",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^0.6.5"
+  }
+}
